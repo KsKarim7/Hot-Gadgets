@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.flex{
+    align-items: center;
+}
+.top-banner{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+}
+.buy-now-button{
+    background-image:linear-gradient(to bottom, black 0%, black 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see{
+    display: flex;
+    justify-content: flex-end;
+    color: orange;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 70px;
+}
+.card-text{
+    color: grey;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px rgb(153, 149, 149);
+}
